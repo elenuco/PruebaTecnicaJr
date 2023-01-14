@@ -1,4 +1,10 @@
 Prueba Técnica Jr Para la empresa Rocketters.
 
-Clona el repositorio y crea una nueva rama para trabajar en su solución. 
-Despues hacer un Pull Request cuando haya terminado.
+Descarga el repositorio de la prueba y súbelo a un repositorio aparte con la solución en tu cuenta de Github.
+Después envíanos el link del nuevo repositorio con tu solución. 
+
+Nosotros nos contactaremos contigo después de revisar tu solución.
+
+¡Suerte!
+
+
